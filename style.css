@@ -39,3 +39,8 @@ height:0px;
 margin: 0 auto 8px;
 border: 1px solid #ECEFF2
 }
+
+#balls
+{position: fixed;
+right: 0px;
+bottom:0px}
